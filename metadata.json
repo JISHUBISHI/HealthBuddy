@@ -1,0 +1,7 @@
+{
+  "name": "Healthbuddy",
+  "description": "AI-Powered Healthcare Chatbot with Multi-Agent Support for symptom analysis, medication advice, and lifestyle recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
